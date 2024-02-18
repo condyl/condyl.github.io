@@ -1,60 +1,60 @@
 @font-face {
-  font-family: "Source Code Pro";
-  src: url("./assets/SourceCodePro/SourceCodePro-Regular.ttf");
+    font-family: "Source Code Pro";
+    src: url("./assets/SourceCodePro/SourceCodePro-Regular.ttf");
 }
 
 html {
-  overflow: hidden;
+    overflow: hidden;
 }
 
 body {
-  margin: 0;
-  padding: 0;
-  background-color: #1e2229;
-  color: #fafbfc;
-  font-family: "Source Code Pro";
-  font-size: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #1e2229;
+    color: #fafbfc;
+    font-family: "Source Code Pro";
+    font-size: 100%;
 }
 
 .container {
-  margin: 20px;
+    margin: 20px;
 }
 
 input {
-  border: none;
-  outline: none;
-  background-color: #1e2229;
-  color: #fafbfc;
-  font-family: "Source Code Pro";
-  font-size: 100%;
-  width: 83%;
-  margin: 0px 0px 0px 9.5px;
-  padding: 0px;
+    border: none;
+    outline: none;
+    background-color: #1e2229;
+    color: #fafbfc;
+    font-family: "Source Code Pro";
+    font-size: 100%;
+    width: 83%;
+    margin: 0px 0px 0px 9.5px;
+    padding: 0px;
 }
 
 .flexbox {
-  display: flex;
+    display: flex;
 }
 
 .nospace {
-  display: inline-block;
-  margin-right: 0px;
+    display: inline-block;
+    margin-right: 0px;
 }
 
 .light-dark {
-  color: #f5eeec;
+    color: #f5eeec;
 }
 
 .green {
-  color: #2fbb4f;
+    color: #2fbb4f;
 }
 
 .light-dark {
-  color: #d3d3d3;
+    color: #d3d3d3;
 }
 
 .purple {
-  color: #b026ff;
+    color: #b026ff;
 }
 
 a {
@@ -64,4 +64,10 @@ a {
 
 li {
     list-style-type: none;
+}
+
+@media only screen and (max-width: 600px) {
+    #logo {
+        font-size: 7px;
+    }
 }
