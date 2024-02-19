@@ -49,7 +49,7 @@ const noncs = [
 
 const projects = [
     "<br>",
-    `<li><a href="https://github.com/condyl/condyl.github.io" target="__blank"><u>Terminal Portfolio</u> <i class="fa-solid fa-link"></i> </a> - This Website!</li>`,
+    `<li><a href="https://github.com/condyl/terminal-site" target="__blank"><u>Terminal Portfolio</u> <i class="fa-solid fa-link"></i> </a> - This Website!</li>`,
     `<li><a href="https://github.com/condyl/wordle-solver" target="__blank"><u>Wordle Solver</u> <i class="fa-solid fa-link"></i></a> - Automatically solve Wordle puzzles!</li>`,
     `<li><a href="https://github.com/condyl/recipe-discord-bot" target="__blank"><u>Resume Discord Bot</u> <i class="fa-solid fa-link"></i> </a> - Get step-by-step recipe instructions!</li>`,
     `<li><a href="https://github.com/condyl/led-strip" target="__blank"><u>Website Controlled LED RGB Strip</u> <i class="fa-solid fa-link"></i> </a> - Control your lights on any device with a web browser!</li>`,
