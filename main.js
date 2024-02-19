@@ -42,7 +42,7 @@ function enterHandler(event) {
     <div class="flexbox">
         <span class="green nospace">guest</span>
         <span class="light-dark nospace">@</span>
-        <span class="purple nospace">LINKHERE.COM</span>
+        <span class="purple nospace">connorbernard.com</span>
         <span class="light-dark nospace">:$~ </span>
         <span class="space">${command}</span>
     </div>
