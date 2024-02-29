@@ -45,6 +45,11 @@ input {
     margin-right: 0px;
 }
 
+.space {
+    display: inline-block;
+    margin-left: 9.5px;
+}
+
 .light-dark {
     color: #f5eeec;
 }

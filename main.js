@@ -39,15 +39,15 @@ function enterHandler(event) {
         const newDiv = document.createElement("div");
         newDiv.classList.add("output");
         newDiv.innerHTML = `
-    <div class="flexbox">
-        <span class="green nospace">guest</span>
-        <span class="light-dark nospace">@</span>
-        <span class="purple nospace">connorbernard.com</span>
-        <span class="light-dark nospace">:$~ </span>
-        <span class="space">${command}</span>
-    </div>
-    <div class="cmd-line"></div>
-    `;
+        <div class="flexbox">
+            <span class="green nospace">guest</span>
+            <span class="light-dark nospace">@</span>
+            <span class="purple nospace">connorbernard.com</span>
+            <span class="light-dark nospace">:$~</span>
+            <span class="space"> ${command}</span>
+        </div>
+        <div class="cmd-line"></div>
+        `;
         const newOutput = newDiv.querySelector(".cmd-line");
         runCommand(command, newOutput);
         container.insertBefore(newDiv, container.lastElementChild);
