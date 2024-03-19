@@ -37,7 +37,7 @@ const aboutme = [
 const experience = [
     "<br>",
     `<li>Caribou Contests - Full Stack Developer Intern - Jan. 2024 to Apr. 2024</li>`,
-    `<li>&bull; Led the development of Caribou Contest’s first 3D game '<strike>REDACTED</strike>', created using JavaScript & Three.js.</li>`,
+    `<li>&bull; Led the development of Caribou Contest’s first 3D game <a href="https://cariboutests.com/games/packing.php">'<u>Packing</u>' <i class="fa-solid fa-link"></i></a>, created using JavaScript & Three.js.</li>`,
     `<li>&bull; Contributed to a multilingual chat bot, used by 5000+ users monthly, that can detect over 200 intents using the Google DialogFlow API connected to a PHP backend and a React frontend app.</li>`,
     `<li>&bull; Implemented performance enhancements that led to an impressive 87% reduction in load times for critical features such as login and student dashboard settings.</li>`,
     `<li>&bull; Created and updated documentation for various projects and processes to facilitate knowledge transfer and collaboration among team members.</li>`,
