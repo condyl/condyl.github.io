@@ -31,18 +31,19 @@ const help = [
 ]
 
 const aboutme = [
-    "Hi!  I'm Connor!  I am currently a 2nd-year student at Brock University in St Catherines, Ontario studying Computer Science.  For the past couple months, I have been a Full Stack Developer Intern at Caribou Contests, where I have been the lead developer of a new puzzle-game that will be added to the site very soon.  My main CS interests are web development, computer vision, and artificial intelligence.  I am currently looking for a Fall 2024 co-op/internship."
+    "Hi!  I'm Connor!  I am currently a 2nd-year student at Brock University in St Catherines, Ontario studying Computer Science.  During the past Winter semester, I have been a software developer intern at Caribou Contests, where I made a new math puzzle game.  I am currently working as a Research Assistant at Brock University under Prof. Wolf and Prof. Nishat.  My main CS interests are web development, computer vision, and artificial intelligence.  I am currently looking for a Fall 2024 co-op/internship."
 ]
 
 const experience = [
+    '<br>',
+    '<li>Brock University - Research Assistant - Apr. 2024 to Aug. 2024</li>',
+    "&bull; Collaborated with Prof. Wolf and Prof. Nishat to develop a 3D interface for Prof. Wolf's 'TurboKnots' program.",
+    "<br>",
     "<br>",
     `<li>Caribou Contests - Full Stack Developer Intern - Jan. 2024 to Apr. 2024</li>`,
-    `<li>&bull; Led the development of Caribou Contest’s first 3D game <a href="https://cariboutests.com/games/packing.php">'<u>Packing</u>' <i class="fa-solid fa-link"></i></a>, created using JavaScript & Three.js.</li>`,
+    `<li>&bull; Led the development of Caribou Contest’s first 3D game <a href="https://cariboutests.com/games/packing.php">'<u>Packing</u>'<i class="fa-solid fa-link"></i></a> using using JavaScript \& Three.js, which generated 12000+ plays in the first month of release.</li>`,
     `<li>&bull; Contributed to a multilingual chat bot, used by 5000+ users monthly, that can detect over 200 intents using the Google DialogFlow API connected to a PHP backend and a React frontend app.</li>`,
     `<li>&bull; Implemented performance enhancements that led to an impressive 87% reduction in load times for critical features such as login and student dashboard settings.</li>`,
-    `<li>&bull; Created and updated documentation for various projects and processes to facilitate knowledge transfer and collaboration among team members.</li>`,
-    `<li>&bull; Collaborated with other developers using Git & GitHub to perform code reviews and issue tracking.</li>`,
-    `<li>&bull; Designed and rigorously tested production-ready code to ensure reliability and performance.</li>`,
     "<br>"
 ]
 
@@ -72,7 +73,7 @@ const projects = [
     `<li>&bull; Achieved rapid word identification by strategically narrowing down possible answers using a combination of evaluation maps and word count analysis.</li>`,
     `<li>&bull; Developed an intelligent guessing strategy that adapts dynamically based on previous outcomes, leading to precise word predictions.</li>`,
     "<br>",
-    `<li><a href="https://github.com/condyl/recipe-discord-bot" target="__blank"><u>Resume Discord Bot</u> <i class="fa-solid fa-link"></i> </a></li>`,
+    `<li><a href="https://github.com/condyl/recipe-discord-bot" target="__blank"><u>Recipe Discord Bot</u> <i class="fa-solid fa-link"></i> </a></li>`,
     `<li>&bull; Developed a custom Discord bot using Java to increase user experience and activity in an online community.</li>`,
     `<li>&bull; Leveraged the Java Discord API (JDA) to create a seamless integration with the Discord platform, enabling real-time interactions and responses.</li>`,
     `<li>&bull; Implemented REST APIs to retrieve recipe data from external sources, providing users with a diverse selection of culinary options.</li>`,
