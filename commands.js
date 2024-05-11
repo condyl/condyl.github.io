@@ -37,7 +37,7 @@ const aboutme = [
 const experience = [
     '<br>',
     '<li>Brock University - Research Assistant - Apr. 2024 to Aug. 2024</li>',
-    "&bull; Collaborated with Prof. Wolf and Prof. Nishat to develop a 3D interface for Prof. Wolf's 'TurboKnots' program.",
+    "<li>&bull; Collaborated with Prof. Wolf and Prof. Nishat to develop a web interface for Prof. Wolf's 'TurboKnots' program.</li>",
     "<br>",
     "<br>",
     `<li>Caribou Contests - Full Stack Developer Intern - Jan. 2024 to Apr. 2024</li>`,
