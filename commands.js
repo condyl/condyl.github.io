@@ -31,7 +31,7 @@ const help = [
 ]
 
 const aboutme = [
-    "Hi!  I'm Connor!  I am currently a 2nd-year student at Brock University in St Catherines, Ontario studying Computer Science.  During the past Winter semester, I have been a software developer intern at Caribou Contests, where I made a new math puzzle game.  I am currently working as a Research Assistant at Brock University under Prof. Wolf and Prof. Nishat.  My main CS interests are web development, computer vision, and artificial intelligence.  I am currently looking for a Fall 2024 co-op/internship."
+    "Hi!  I'm Connor!  I am currently a 2nd-year student at Brock University in St Catherines, Ontario studying Computer Science.  During the past Winter semester, I have been a software developer intern at Caribou Contests, where I made a new math puzzle game.  I am currently working as a Research Assistant at Brock University under Prof. Wolf and Prof. Nishat.  My main CS interests are web development, computer vision, and artificial intelligence.  I am currently looking for Spring/Summer 2025 co-ops/internships."
 ]
 
 const experience = [
