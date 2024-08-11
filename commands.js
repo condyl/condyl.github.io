@@ -37,13 +37,15 @@ const aboutme = [
 const experience = [
     '<br>',
     '<li>Brock University - Research Assistant - Apr. 2024 to Aug. 2024</li>',
-    "<li>&bull; Collaborated with Prof. Wolf and Prof. Nishat to develop a web interface for Prof. Wolf's 'TurboKnots' program.</li>",
+    "<li>&bull; Collaborated with Prof. Wolf and Prof. Nishat to develop a <a href='https://cariboutests.com/games/knots'><u>web interface</u> <i class='fa-solid fa-link'></i></a> for Prof. Wolf's 'TurboKnots' program.</li>",
     "<br>",
     "<br>",
     `<li>Caribou Contests - Full Stack Developer Intern - Jan. 2024 to Apr. 2024</li>`,
     `<li>&bull; Led the development of Caribou Contest’s first 3D game <a href="https://cariboutests.com/games/packing.php">'<u>Packing</u>'<i class="fa-solid fa-link"></i></a> using using JavaScript \& Three.js, which generated 12000+ plays in the first month of release.</li>`,
     `<li>&bull; Contributed to a multilingual chat bot, used by 5000+ users monthly, that can detect over 200 intents using the Google DialogFlow API connected to a PHP backend and a React frontend app.</li>`,
-    `<li>&bull; Implemented performance enhancements that led to an impressive 87% reduction in load times for critical features such as login and student dashboard settings.</li>`,
+    `<li>&bull; Optimized SQL queries, resulting in an 87% reduction in load times for critical features, improving user experience and increasing overall site performance.</li>`,
+    `<li>&bull; Developed data visualization webpages tracking school board purchases, directly contributing to a $30,000+ revenue increase from one school board through targeted sales of full school board passes.</li>`,
+    `<li>&bull; Collaborated with other developers using Git & GitHub to perform code reviews and issue tracking.</li>`,
     "<br>"
 ]
 
