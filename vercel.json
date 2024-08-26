@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/terminal/(.*)",
+        "destination": "/$1"
+      }
+    ]
+  }
