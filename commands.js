@@ -2,6 +2,7 @@ const linkedin = "https://www.linkedin.com/in/connor-bernard/"
 const github = "https://www.github.com/condyl";
 const email = "mailto:connorbbrocku@gmail.com";
 const resume = "https://drive.google.com/drive/folders/1oMk7rSnh0zGLh5Ctn3uV_Itk1NlV95ul?usp=sharing";
+const back = "https://connorbernard.com";
 
 const commands = [
     "help",
@@ -28,6 +29,7 @@ const help = [
     '<li>resume       - Look at my resume <i class="fa-solid fa-file"></i></li>',
     '<li>email        - Send me an email <i class="fa-solid fa-envelope"></i></li>',
     '<li>clear        - Clear the terminal <i class="fa-solid fa-trash"></i></li>',
+    '<li>back         - Go back to the normal portfolio <i class="fa-solid fa-arrow-left"></i></li>',
 ]
 
 const aboutme = [
@@ -97,5 +99,6 @@ export {
     projects,
     aboutme,
     help,
-    resume
+    resume,
+    back
 };

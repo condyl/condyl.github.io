@@ -9,6 +9,7 @@ import {
     projects,
     experience,
     noncs,
+    back
 } from "./commands.js";
 
 const container = document.querySelector(".container");
@@ -112,7 +113,11 @@ function runCommand(command, output) {
             break;
         case "github":
             newText("Opening GitHub...", output);
-            newLink(github);
+            newLink(back);
+            break;
+        case "back":
+            newText("Going back to main site...", output);
+            newLink(back);
             break;
         case "resume":
             newText("Opening resume...", output);
