@@ -44,7 +44,7 @@ function enterHandler(event) {
             <span class="green nospace">guest</span>
             <span class="light-dark nospace">@</span>
             <span class="purple nospace">connorbernard.com</span>
-            <span class="light-dark nospace">:$~</span>
+            <span class="light-dark nospace"> % </span>
             <span class="space"> ${command}</span>
         </div>
         <div class="cmd-line"></div>
@@ -113,7 +113,7 @@ function runCommand(command, output) {
             break;
         case "github":
             newText("Opening GitHub...", output);
-            newLink(back);
+            newLink(github);
             break;
         case "back":
             newText("Going back to main site...", output);
@@ -133,7 +133,7 @@ function runCommand(command, output) {
             newText("", output);
             break;
         default:
-            newText(`${command} : The term '${command}' is not recognized as the name of a cmdlet, function, script file, or operable program. Type 'help' to see the list of available commands.`, output);
+            newText(`zsh: command not found: ${command}`, output);
             break;
     }
 }

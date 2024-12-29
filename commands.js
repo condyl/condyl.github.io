@@ -1,7 +1,7 @@
 const linkedin = "https://www.linkedin.com/in/connor-bernard/"
 const github = "https://www.github.com/condyl";
 const email = "mailto:connorbbrocku@gmail.com";
-const resume = "https://drive.google.com/drive/folders/1oMk7rSnh0zGLh5Ctn3uV_Itk1NlV95ul?usp=sharing";
+const resume = "https://www.connorbernard.com/Connor_Bernard_Resume.pdf";
 const back = "https://connorbernard.com";
 
 const commands = [
@@ -37,13 +37,19 @@ const aboutme = [
 ]
 
 const experience = [
+    '<li>Sun Life - Software Engineer Intern - Sept. 2024 to Dec. 2024</li>',
+    "<li>&bull; Developed internal tools using Java and AEM, utilized by 50+ developers, resulting in 10 hours saved weekly.</li>",
+    "<li>&bull; Engineered 36+ JUnit test cases, leading to 98% code coverage and cutting production defects by 30%.</li>",
+    "<li>&bull; Won 1st place in Sun Life’s Elevate Cloud Tech Hackathon by creating a GenAI chat bot using Amazon Q and AWS, competing against 240 participants globally.</li>",
+    "<li>&bull; Improved documentation for internal tools and processes, boosting onboarding efficiency for new hires by 25%.</li>",
     '<br>',
-    '<li>Brock University - Research Assistant - Apr. 2024 to Aug. 2024</li>',
+    '<br>',
+    '<li>Brock University - Research Assistant - Apr. 2024 to Dec. 2024</li>',
     "<li>&bull; Collaborated with Prof. Wolf and Prof. Nishat to develop a <a href='https://cariboutests.com/games/knots'><u>web interface</u> <i class='fa-solid fa-link'></i></a> for Prof. Wolf's 'TurboKnots' program.</li>",
     "<br>",
     "<br>",
     `<li>Caribou Contests - Full Stack Developer Intern - Jan. 2024 to Apr. 2024</li>`,
-    `<li>&bull; Led the development of Caribou Contest’s first 3D game <a href="https://cariboutests.com/games/packing.php">'<u>Packing</u>'<i class="fa-solid fa-link"></i></a> using using JavaScript \& Three.js, which generated 12000+ plays in the first month of release.</li>`,
+    `<li>&bull; Led the development of Caribou Contest’s first 3D game <a href="https://cariboutests.com/games/packing.php">'<u>Packing</u>'<i class="fa-solid fa-link"></i></a> using using JavaScript \& Three.js, which generated 35000+ plays to date</li>`,
     `<li>&bull; Contributed to a multilingual chat bot, used by 5000+ users monthly, that can detect over 200 intents using the Google DialogFlow API connected to a PHP backend and a React frontend app.</li>`,
     `<li>&bull; Optimized SQL queries, resulting in an 87% reduction in load times for critical features, improving user experience and increasing overall site performance.</li>`,
     `<li>&bull; Developed data visualization webpages tracking school board purchases, directly contributing to a $30,000+ revenue increase from one school board through targeted sales of full school board passes.</li>`,
